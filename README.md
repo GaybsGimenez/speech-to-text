@@ -2,6 +2,9 @@
 
 Este é um script Python simples para auxiliar na organização e cópia de arquivos de áudio listados em arquivos Excel. Ele foi criado para facilitar tarefas de classificação e organização de arquivos de áudio em um projeto específico.
 
+## Observação: 
+Não consigo importar a pasta PT-BR-SSDforSER que contem os arquivos de audio, pois ela é muito extensa. Mas em resumo é uma pasta contendo 12k de arquivos de áudio na extensão .WAV divididos em audios de 1 a 5 segundos cada. 
+
 ## Funcionalidades Principais
 
 - **Leitura de Arquivos Excel**: O script é capaz de ler arquivos Excel na pasta especificada e extrair os caminhos dos arquivos de áudio contidos neles.
