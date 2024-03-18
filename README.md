@@ -18,7 +18,7 @@ Este é um script Python simples para auxiliar na organização e cópia de arqu
 
 ## Requisitos
 
-- **Python 3.x**: Certifique-se de ter Python 3.x instalado em seu sistema.
+- **Python 3.11**: Certifique-se de ter Python 3.x instalado em seu sistema.
 - **Pandas**: O Pandas é utilizado para ler os arquivos Excel.
 - **Módulos OS e shutil**: Módulos padrão do Python utilizados para operações de sistema e cópia de arquivos.
 - **Arquivos Excel**: Os arquivos Excel na pasta de origem devem estar no formato .xlsx.
