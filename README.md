@@ -1,6 +1,7 @@
 # Conversor de Áudio para Texto
 
 Este script Python foi desenvolvido para realizar a transcrição de arquivos de áudio em texto usando a função de Speech to Text. Ele utiliza a biblioteca SpeechRecognition para realizar essa conversão.
+Dado o arquivo contendo os áudios, ele transcreve os arquivos .wav e depois transcreve em um arquivo csv contendo a transcrição e o caminho do arquivo de audio correspondete. 
 
 ## Instalação
 
